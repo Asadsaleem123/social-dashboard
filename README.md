@@ -141,7 +141,7 @@ function darkBtnToggle(n) {
 
 ## Author
 
-- Frontend Mentor - [@blue-mariposa](https://www.frontendmentor.io/profile/blue-mariposa).
+- Frontend Mentor - [@Asadsaleem123](https://www.frontendmentor.io/profile/Asadsaleem123).
 
 ## Acknowledgments
 
